@@ -1,0 +1,6 @@
+حالة المشروع في بيئة الإنشاء الحالية:
+- JavaScript syntax: OK
+- Node tests: 8/8 PASS
+- Quran dataset: 114 surahs / 6236 verses
+- Android SDK/Gradle/Capacitor native packages: غير مثبتة في هذه البيئة، لذلك لم يتم تنفيذ Android build.
+- لا يوجد APK مُختبر أو مُنشأ في هذه البيئة.

@@ -1,0 +1,9 @@
+{
+  "appId": "com.noor.prayer",
+  "appName": "نور",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "cleartext": false
+  }
+}
